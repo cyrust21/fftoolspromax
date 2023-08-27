@@ -1,11 +1,12 @@
 {
-"UpdateVersion" : "1.5 beta",
+"UpdateVersion" : "1.5",
 "UpdateMessage" : "Maintenance Service",
 "UpdateUrl" : "https://www.cyrust.app/p/data.html",
 "UpdateBtn" : "Try again later",
 "Btn" : "true",
 "UrlDownload" : "https://televisionjitter.com/ch1bekwh?key=41e71398f75adfed4ac5b242f0b56faa",
 "More" : "Comingsoon.",
+  "getpassword" : "https://www.cyrust.app/p/passwordfftoolspromax.html",
 "ffdata" : "https://ffdata",
   "ffobb" : "https://ffobb",
 "ffmaxdata" : "https://ffmaxdata",
