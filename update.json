@@ -10,7 +10,11 @@
 "More" : "Comingsoon.",
   "getpassword" : "https://www.cyrust.app/p/passwordfftoolspromax.html",
 "ffdata" : "https://ffdata",
+  "ffdata_des" : "1",
   "ffobb" : "https://ffobb",
+  "ffobb_des" : "2",
 "ffmaxdata" : "https://ffmaxdata",
+  "ffmaxdata_des" : "3",
   "ffmaxobb" : "https://ffmaxobb"
+  "ffmaxobb_des" : "4",
 }
