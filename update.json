@@ -4,6 +4,8 @@
 "UpdateUrl" : "https://www.cyrust.app/p/data.html",
 "UpdateBtn" : "Try again later",
 "Btn" : "true",
+  "BtnCancel" : "cancel",
+  "BtnLink" : "https://google.com",
 "UrlDownload" : "https://televisionjitter.com/ch1bekwh?key=41e71398f75adfed4ac5b242f0b56faa",
 "More" : "Comingsoon.",
   "getpassword" : "https://www.cyrust.app/p/passwordfftoolspromax.html",
