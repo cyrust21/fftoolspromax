@@ -3,7 +3,7 @@
 "UpdateMessage" : "Maintenance Service",
 "UpdateUrl" : "https://www.cyrust.app/p/data.html",
 "UpdateBtn" : "Try again later",
-"Btn" : "false",
+"Btn" : "true",
   "UrlDownload" : "https://www.cyrust.app/p/data.html",
   "BtnCancel" : "false",
   "BtnLink" : "https://google.com",
