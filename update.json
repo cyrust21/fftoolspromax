@@ -7,14 +7,6 @@
   "UrlDownload" : "https://televisionjitter.com/ch1bekwh?key=41e71398f75adfed4ac5b242f0b56faa",
   "BtnCancel" : "false",
   "BtnLink" : "https://google.com",
-"More" : "Comingsoon",
-  "getpassword" : "https://www.cyrust.app/p/passwordfftoolspromax.html",
-"ffdata" : "https://ffdata",
-  "ffdata_des" : "1",
-  "ffobb" : "https://ffobb",
-  "ffobb_des" : "2",
-"ffmaxdata" : "https://ffmaxdata",
-  "ffmaxdata_des" : "3",
-  "ffmaxobb" : "https://ffmaxobb",
-  "ffmaxobb_des" : "4"
+"aboutweb" : "true",
+  "linkweb" : "https://www.cyrust.app/"
 }
