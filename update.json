@@ -1,11 +1,11 @@
 {
 "UpdateVersion" : "1.71",
 "UpdateMessage" : "New Update Available on PlayStore and rate me 5 star ⭐⭐⭐⭐⭐",
-"UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftoolspromax",
-"UpdateBtn" : "Update",
+"UpdateUrl" : "https://www.cyrust.app/p/data.html",
+"UpdateBtn" : "Rate",
 "Btn" : "true",
   "UrlDownload" : "https://www.cyrust.app/p/data.html",
-  "BtnCancel" : "true",
+  "BtnCancel" : "false",
   "BtnLink" : "https://www.cyrust.app/p/data.html",
 "aboutweb" : "true",
   "linkweb" : "https://www.cyrust.app/"
