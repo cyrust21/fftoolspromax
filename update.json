@@ -1,12 +1,12 @@
 {
 "UpdateVersion" : "1.7",
-"UpdateMessage" : "Maintenance Service",
-"UpdateUrl" : "https://www.cyrust.app/p/data.html",
+"UpdateMessage" : "New Update Available on PlayStore and rate me 5 star ⭐⭐⭐⭐⭐",
+"UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftoolspromax",
 "UpdateBtn" : "Try again later",
 "Btn" : "true",
   "UrlDownload" : "https://www.cyrust.app/p/data.html",
-  "BtnCancel" : "false",
-  "BtnLink" : "https://google.com",
+  "BtnCancel" : "true",
+  "BtnLink" : "https://www.cyrust.app/p/data.htmlm",
 "aboutweb" : "true",
   "linkweb" : "https://www.cyrust.app/"
 }
