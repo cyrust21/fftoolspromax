@@ -5,7 +5,7 @@
 "UpdateBtn" : "visit",
 "Btn" : "true",
   "UrlDownload" : "https://www.cyrust.app/p/data.html",
-  "BtnCancel" : "false",
+  "BtnCancel" : "true",
   "BtnLink" : "https://www.cyrust.app/p/data.html",
 "aboutweb" : "true",
   "linkweb" : "https://www.cyrust.app/"
