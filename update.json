@@ -8,5 +8,6 @@
   "BtnCancel" : "true",
   "BtnLink" : "https://www.cyrust.app/p/data.html",
 "aboutweb" : "true",
-  "linkweb" : "https://www.cyrust.app/"
+  "linkweb" : "https://www.cyrust.app/",
+  "setCancelable" : "true"
 }
