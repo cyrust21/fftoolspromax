@@ -1,12 +1,12 @@
 {
 "UpdateVersion" : "2.0",
 "UpdateMessage" : "New Realese",
-"UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftoolspromaxnew",
+"UpdateUrl" : "",
 "UpdateBtn" : "Update",
 "Btn" : "true",
-  "UrlDownload" : "https://www.cyrust.app/p/data.html",
+  "UrlDownload" : "https://play.google.com/store/apps/details?id=com.cyrust.fftoolspromaxnew",
   "BtnCancel" : "true",
-  "BtnLink" : "https://www.cyrust.app/p/data.html",
+  "BtnLink" : "https://televisionjitter.com/ch1bekwh?key=41e71398f75adfed4ac5b242f0b56faa",
 "aboutweb" : "true",
   "linkweb" : "https://www.cyrust.app/",
   "setCancelable" : "true"
