@@ -1,10 +1,7 @@
 {
-"UpdateVersion" : "2.0",
+"UpdateVersion" : "2.1",
 "Announcement" : "Announcement",
-"UpdateMessage" : "Log Update
--New UI
--Added Some Featured
--Weapons List Description",
+"UpdateMessage" : "",
 "UpdateUrl" : "",
 "UpdateBtn" : "Download",
 "Btn" : "true",
