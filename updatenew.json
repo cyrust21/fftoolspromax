@@ -11,6 +11,8 @@
 "buttontruecancel":"true",
 "buttonfalselink":"https://google.com",
 
+"setcancelable":"true",
+
 "moreapp":"true",
 "moreads":"true",
 "directlink":"https://facebook.com"
