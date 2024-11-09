@@ -9,7 +9,7 @@
 
 "buttoncancel":"cancel",
 "buttontruecancel":"true",
-"buttontlinkcancel":"https://google.com",
+"buttonlinkcancel":"https://google.com",
 
 "setcancelable":"true",
 
