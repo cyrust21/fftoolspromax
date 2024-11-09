@@ -8,10 +8,10 @@
 "buttonlinkupdate":"https://cyrust.app",
 
 "buttoncancel":"cancel",
-"buttontruecancel":"true",
+"buttontruecancel":"false",
 "buttonlinkcancel":"https://google.com",
 
-"setcancelable":"true",
+"setcancelable":"false",
 
 "moreapp":"true",
 "moreads":"true",
