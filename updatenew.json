@@ -4,12 +4,12 @@
 "updatemessage":"hello world",
 
 "buttonupdate":"update",
-"buttontruelink":"true",
+"buttontrueupdate":"true",
 "buttonlinkupdate":"https://cyrust.app",
 
 "buttoncancel":"cancel",
 "buttontruecancel":"true",
-"buttontruelink":"https://google.com",
+"buttontlinkcancel":"https://google.com",
 
 "setcancelable":"true",
 
