@@ -12,5 +12,5 @@
 "aboutweb" : "true",
   "linkweb" : "https://www.cyrust.app/",
   "setCancelable" : "false",
-"mob":"true"
+"mob":"false"
 }
