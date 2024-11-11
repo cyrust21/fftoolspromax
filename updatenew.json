@@ -1,11 +1,11 @@
 {
 
-"updateversion":"2.7",
-"updatemessage":"hello world",
+"updateversion":"2.8",
+"updatemessage":"Fix Bugs Error",
 
-"buttonupdate":"website",
+"buttonupdate":"Update",
 "buttontrueupdate":"true",
-"buttonlinkupdate":"https://cyrust.app",
+"buttonlinkupdate":"https://play.google.com/store/apps/details?id=com.cyrust.fftoolspromaxnew",
 
 "buttoncancel":"cancel",
 "buttontruecancel":"false",
